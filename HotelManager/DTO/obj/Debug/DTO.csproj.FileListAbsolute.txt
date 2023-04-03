@@ -1,0 +1,11 @@
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\bin\Debug\DTO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\bin\Debug\DTO.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\obj\Debug\DTO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\obj\Debug\DTO.pdb
+E:\HotelManager\DTO\bin\Debug\DTO.dll
+E:\HotelManager\DTO\bin\Debug\DTO.pdb
+E:\HotelManager\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\HotelManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\HotelManager\DTO\obj\Debug\DTO.dll
+E:\HotelManager\DTO\obj\Debug\DTO.pdb
